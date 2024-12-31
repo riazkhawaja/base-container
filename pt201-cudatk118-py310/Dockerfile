@@ -242,7 +242,7 @@
         pyyaml==5.4.1 \
         sentence-transformers==2.2.2 \
         wandb==0.15.10 \
-        deepspeed==0.10.3 \
+        deepspeed==0.16.2 \
         cupy-cuda11x==13.3.0 \
         timm==0.9.7 \
         omegaconf==2.3.0 \
